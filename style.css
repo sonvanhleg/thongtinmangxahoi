@@ -1,0 +1,28 @@
+.left{
+    float: left;
+}
+img{
+    height: 150px;
+}
+p{
+    padding-left: 40px;
+}
+.facebook{
+    width: 100%;
+    height: 25%;
+}
+.tiktok{
+    width: 100%;
+    height: 25%;
+}
+.ig{
+    width: 100%;
+    height: 25%;
+}
+.zalo{
+    width: 100%;
+    height: 25%;
+}
+p{
+    margin-top: 70px;
+}
